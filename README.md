@@ -3,6 +3,8 @@ Final Year Project - Web App for student related activities (front-end)
 
 This repo contains the wireframes designed for my final year project - Web App for student related activities and the interim report leading up to the design.
 
+The wireframes were designed with figma: https://www.figma.com/file/j93DV6Y0p4VMrJUYCTiOOz/FYP-Wireframes-(Copy)?type=design&node-id=1%3A1206&mode=design&t=69UirZIZEJd0QBBQ-1
+
 Development has yet to begin
 
 Motivations
