@@ -3,7 +3,7 @@ Final Year Project - Web App for student related activities (front-end)
 
 This repo contains the wireframes designed for my final year project - Web App for student related activities and the interim report leading up to the design.
 
-Develop has yet to begin
+Development has yet to begin
 
 Motivations
 
