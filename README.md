@@ -1,4 +1,4 @@
-# fypwebapp
+# Web App for student related activities (front-end)
 Final Year Project - Web App for student related activities (front-end)
 
 This repo contains the wireframes designed for my final year project - Web App for student related activities and the interim report leading up to the design.
